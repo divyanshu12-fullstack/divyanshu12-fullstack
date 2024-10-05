@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech, Sports, Software Devlopment and gaming
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on All project you think I can contribute into
-- 📫 How to reach me ....
+- 📫 You can reach me via Mail:  divyanshudwivedi1290@gmail.com or Linked-in: https://www.linkedin.com/in/divyanshu-dwivedi-4963282b9/
 - 😄 Pronouns: He/Him
 
 <!---
