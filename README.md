@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **divyanshudwivedi1290@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18MzrygzM51loWxyj9rJK5Iivdd8U5PFW/view?usp=sharing](https://drive.google.com/file/d/18MzrygzM51loWxyj9rJK5Iivdd8U5PFW/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1ndgzFaJVIkt-qsFY7yy5_wUhu6W6IQeX/view?usp=sharing)
 
 - ⚡ Fun fact **also intrested in journaling, music and geopolitics**
 
