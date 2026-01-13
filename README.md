@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **divyanshudwivedi1290@gmail.com**
 
-- 📄 Read My Resume here- (https://drive.google.com/file/d/1o9_Oagg3k5wtk0vr0odno59JHIvXgInB/view?usp=sharing)
+- 📄 Read My Resume here- [Resume](https://drive.google.com/file/d/1sa_f5-j1LG0hZ-_4drrM6aP-ataDBm25/view?usp=sharing)
 
 - ⚡ Fun fact **also intrested in journaling, music and geopolitics**
 
