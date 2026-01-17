@@ -1,27 +1,110 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Dwivedi</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Job-Ready Full Stack Developer | MERN • React • Node • AI-Curious</h3>
 
-- 🔭 I’m currently working on **BharatRisk: AI-Driven Financial Risk Profiling for the Unbanked and Informal Sector**
-
-- 🌱 I’m currently learning **Next.js, Machine Learning**
-
-- 👯 I’m looking to collaborate on **Hackathons and Full Stack Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/divyanshu12-fullstack?tab=repositories](https://github.com/divyanshu12-fullstack?tab=repositories)
-
-- 💬 Ask me about **React, JavaScript, Python**
-
-- 📫 How to reach me **divyanshudwivedi1290@gmail.com**
-
-- 📄 Read My Resume here- [Resume](https://drive.google.com/file/d/1sa_f5-j1LG0hZ-_4drrM6aP-ataDBm25/view?usp=sharing)
-
-- ⚡ Fun fact **also intrested in journaling, music and geopolitics**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divyanshu-dwivedi-4963282b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu-dwivedi-4963282b9" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.divyanshu.engineer/" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/divyanshu-dwivedi-4963282b9/" target="_blank"><b>LinkedIn</b></a> •
+  <a href="mailto:divyanshudwivedi1290@gmail.com"><b>Email</b></a> •
+  <a href="https://drive.google.com/file/d/1sa_f5-j1LG0hZ-_4drrM6aP-ataDBm25/view" target="_blank"><b>Resume</b></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 Professional Summary
+
+I'm a **Full Stack Developer** with hands-on experience building **production-style web applications**, browser extensions, and AI-powered platforms.  
+I focus on writing **clean, maintainable code**, designing **intuitive UIs**, and building **scalable APIs**.
+
+✔ MERN Stack  
+✔ Real-world projects (auth, rate limiting, APIs, extensions)  
+✔ Internship + team experience  
+✔ Strong CS fundamentals & problem-solving mindset  
+
+Currently seeking **software developer / full stack roles** and **impact-driven teams**.
+
+---
+
+## 🔧 Core Skills
+
+**Languages:** JavaScript (ES6+), TypeScript, Java, Python, C++  
+**Frontend:** React, HTML5, CSS3, Tailwind CSS, Bootstrap, Figma  
+**Backend:** Node.js, Express.js, RESTful APIs, Authentication  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Postman, Linux, AWS, VS Code  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nodejs,express,mongodb,mysql,tailwind,git,linux,aws,figma,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects (Production-Focused)
+
+### 🔐 DataGuardian — Browser Security Extension
+**Tech:** JavaScript, Chromium APIs, Security Analysis  
+- Built a **Chromium-based extension** to analyze trackers, scripts, and website security risks  
+- Implemented a **privacy dashboard** with actionable insights  
+- Designed for real user security awareness  
+
+🔗 https://github.com/divyanshu12-fullstack/DataGuardian
+
+---
+
+### 🎨 ImgReal — AI Image Generation Platform
+**Tech:** React, Node.js, Express, Tailwind CSS  
+- Developed a **full-stack AI platform** converting text prompts into images  
+- Integrated third-party AI image APIs  
+- Built responsive UI with clean UX flows  
+
+🔗 https://imgreal.netlify.app/
+
+---
+
+### 📝 ThinkBoard — Secure MERN Notes Application
+**Tech:** MongoDB, Express, React, Node.js  
+- Full authentication system with protected routes  
+- Rate limiting and secure REST APIs  
+- Clean CRUD architecture following best practices  
+
+🔗 https://mern-thinkboard-l1rh.onrender.com/
+
+➡️ **More projects:**  
+🔗 https://github.com/divyanshu12-fullstack?tab=repositories
+
+---
+
+## 💼 Experience
+
+**Full Stack Developer Intern — DekNek3D**  
+*2025 – Present*  
+- Worked on real-world full stack applications using React and Node.js  
+- Improved UI performance and backend APIs  
+- Collaborated in a team environment with version control  
+
+**Technical Core Team — Data Science Club, VIT Bhopal**  
+- Contributed to the official website  
+- Worked across frontend and backend with performance optimizations  
+
+**Technical Trainer Intern — CertifyO**  
+- Trained 50+ students in JavaScript & Web Development  
+- Designed hands-on coding projects  
+
+---
+
+## 📄 Resume & Portfolio
+
+📌 **Portfolio:** https://www.divyanshu.engineer/  
+📌 **Resume:** https://drive.google.com/file/d/1sa_f5-j1LG0hZ-_4drrM6aP-ataDBm25/view  
+
+---
+
+## 📫 Contact
+
+📧 **Email:** divyanshudwivedi1290@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/divyanshu-dwivedi-4963282b9  
+
+---
+
+<p align="center">
+  <i>Actively building. Always learning. Ready to ship.</i>
+</p>
