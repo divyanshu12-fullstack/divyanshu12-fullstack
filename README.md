@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Dwivedi</h1>
-<h3 align="center">Full Stack Developer | Machine Learning & Audio Processing Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Machine Learning & A.I Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.divyanshu.engineer/" target="_blank"><b>🌐 Portfolio</b></a> •
