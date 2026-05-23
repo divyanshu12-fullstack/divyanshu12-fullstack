@@ -16,8 +16,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyanshu12-fullstack)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshudwivedi1290@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyanshu12-fullstack&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -189,7 +187,7 @@ Data Science Club
             → 40% faster load times via code splitting + lazy loading
 
 [GSSoC]     Open Source Contributor             2024 – 2025
-            → Contributed to 10+ OSS projects
+            → Contributed to Open Source projects
             → Bug fixes, feature enhancements, legacy code optimization
 ```
 
@@ -203,10 +201,9 @@ Data Science Club
 |---|---|
 | 🥇 **Top 45 Teams — Smart India Hackathon 2025** | Nationwide competition |
 | 🥈 **Top 100 Teams — ET Hackathon 2026** | Built Draftly (Economic Times) |
-| 🎖️ **NPTEL Marketing Analytics — Elite Badge** | Score: 100% · Top 1% |
-| 🎖️ **NPTEL Intro to ML — Elite Badge** | Score: 85% |
+| 🎖️ **NPTEL Marketing Analytics — Gold Badge** | Score: 100% · Top 1% |
+| 🎖️ **NPTEL Intro to ML | Elite Badge |
 | 📚 **CGPA: 9.00 / 10.00** | VIT Bhopal · CSE · 2023–2027 |
-| 🌐 **Contributed to 10+ OSS repos** | GirlScript Summer of Code |
 
 </div>
 
@@ -233,7 +230,7 @@ Data Science Club
 
 ```
 ✔  NPTEL — Marketing Analytics           [ Elite Badge · 100% · Top 1% ]
-✔  NPTEL — Introduction to Machine Learning  [ Elite Badge · 85%        ]
+✔  NPTEL — Introduction to Machine Learning  [ Elite Badge · 64%        ]
 ✔  Udemy — Complete Full Stack Web Dev Bootcamp
 ✔  Coursera — Bits and Bytes of Computer Networking (Google)
 ```
