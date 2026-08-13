@@ -26,15 +26,15 @@
 
 ```yaml
 name: Divyanshu Dwivedi
-role: Full Stack Developer + AI/Agentic Systems Builder
+role: Full Stack Developer (Next.js/React · Node · FastAPI)
 location: Lucknow, India 🇮🇳
 university: VIT Bhopal | CSE | 2023–2027
-cgpa: 9.00 / 10.00
-status: Actively seeking fresher roles — full stack & agentic AI
+cgpa: 9.03 / 10.00
+status: Actively seeking fresher roles — full stack & backend
 currently_building:
   - Multi-agent content platforms with CrewAI
-  - Deepfake speech detection systems
-  - Production-grade Next.js applications
+  - Privacy-first browser extensions with on-device inference
+  - GitHub analytics tooling with deterministic scoring
 superpower: End-to-end solo execution — design → dev → deploy
 philosophy: "Ship it. Learn from it. Do it better."
 ```
@@ -53,7 +53,6 @@ philosophy: "Ship it. Learn from it. Do it better."
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### ◈ Frontend
@@ -64,30 +63,29 @@ philosophy: "Ship it. Learn from it. Do it better."
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### ◈ Backend & Cloud
+### ◈ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### ◈ AI / ML
+### ◈ AI / Agentic
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=ai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6E56CF?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logoColor=white)
 
 ### ◈ Databases & DevOps
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 
@@ -104,65 +102,50 @@ philosophy: "Ship it. Learn from it. Do it better."
 ### 🤖 Draftly — Enterprise Content AI
 `Next.js 16` `FastAPI` `CrewAI` `PostgreSQL` `Gemini`
 
-Multi-agent platform automating policy-aware marketing content generation. Built with real-time SSE streaming + AES-based Fernet encryption for API key security.
+Multi-agent platform automating policy-aware marketing content generation across Twitter and LinkedIn. Built solo in 48 hours for ET Hackathon 2026.
 
 **Highlights:**
-- Multi-agent CrewAI orchestration
-- Real-time streaming via Server-Sent Events
-- AES Fernet encrypted key vault
-- ET Hackathon 2026 — **Top 100 nationwide**
+- Multi-agent CrewAI pipeline for brand-aligned, policy-compliant posts
+- Real-time SSE streaming with a custom Safari polyfill
+- AES-based Fernet-encrypted key vault for safe multi-tenant use
+- Auto-recovery from rate-limit/API failures via retry logic
+- **ET Hackathon 2026 — Top 100 nationwide**
 
 [![Live](https://img.shields.io/badge/🚀_Live_Demo-000?style=flat-square)](https://draftly-ai.vercel.app)
 
 </td>
 <td width="50%">
 
-### 🎙️ VoxGuard AI — Deepfake Speech Detector
-`Python` `PyTorch` `SE-ResNet` `Librosa` `Audio DSP`
+### 🧩 FormPilot — AI Form Autofiller
+`Chrome Extension` `Manifest V3` `FastAPI` `SQLite`
 
-Detects synthetic speech across **5 languages** using a custom SE-ResNet architecture with sliding-window inference + temperature scaling.
+Privacy-first Chrome extension that kills repetitive form-filling across placement, hackathon, and college applications — resumes parsed once, stored entirely on-device.
 
 **Highlights:**
-- SE-ResNet model trained from scratch
-- Sliding-window inference on audio chunks
-- Temperature-calibrated confidence scores
-- 5-language multilingual support
+- Heuristic-first cascade resolving 85% of fields locally in <5ms
+- 7 fallback DOM strategies (ARIA labels, proximity walk, spatial matching)
+- Rebuilt into a 3-phase interactive autofill after early LLM hallucinations
+- Token cost cut from 12K+ → under 10K across 5+ form fills
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/divyanshu12-fullstack)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2">
 
-### 🔐 DataGuardian — Privacy Extension
-`JavaScript` `Chromium APIs` `CSP Analysis` `SSL`
-
-Chromium browser extension with real-time dashboard to autonomously detect + block third-party trackers, with CSP analysis and SSL validation baked in.
-
-**Highlights:**
-- Real-time tracker blocking
-- Content Security Policy analysis
-- SSL/TLS certificate validation
-- Zero external dependencies
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/divyanshu12-fullstack)
-
-</td>
-<td width="50%">
-
-### 📊 RepoLens — GitHub Analyzer
+### 📊 RepoLens — GitHub Repository Analyzer
 `Next.js` `React` `Node.js` `Google Gemini API`
 
-Full-stack GitHub repository evaluator using deterministic engineering metrics + Gemini AI for actionable improvement roadmaps. Parallel API orchestration under the hood.
+Full-stack GitHub repo evaluator combining a deterministic scoring engine (4 independent analyzers: README, commit discipline, tech stack, architecture) with Gemini-powered improvement roadmaps — explainable 0–100 hiring-confidence scores, not a black box.
 
 **Highlights:**
-- Parallel GitHub API orchestration
-- AI-enhanced code analysis
-- Deterministic engineering metrics
-- Actionable improvement roadmaps
+- Resilient GitHub API client with exponential backoff + rate-limit tracking
+- Risk-flag detection and traceable, threshold-based reasoning
+- Parallel API orchestration for faster scans
+- JSON export for reports
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/divyanshu12-fullstack)
+[![Live](https://img.shields.io/badge/🚀_Live_Demo-000?style=flat-square)](https://github.com/divyanshu12-fullstack)
 
 </td>
 </tr>
@@ -173,22 +156,38 @@ Full-stack GitHub repository evaluator using deterministic engineering metrics +
 ## `> history | grep experience`
 
 ```
-[DekNek3D]  Full Stack Developer Intern         Jan 2026 – Mar 2026
-            → Scalable React/Node/Express apps
-            → Robust RESTful APIs + DB schema design → faster response times
+[DekNek3D]   Full Stack Developer Intern         Dec 2025 – Mar 2026
+             → Built 2 client-facing full-stack apps on MERN (Mongo/Express/React/Node)
+             → Shipped a model-preview interface for an AI image-generation product
+             → Audited the production site — fixed UX and conversion bottlenecks
 
-[CertifyO]  Technical Trainer Intern            May 2025 – Jun 2025
-            → Trained 100+ students in JS (ES6+) and modern web APIs
-            → Hands-on projects: interactive apps + REST API integrations
+[CertifyO]   Technical Trainer Intern            May 2025 – Jun 2025
+             → Trained 100+ students in JS (ES6+) and modern web APIs
+             → Hands-on projects: interactive apps + REST API integrations
 
-[VIT BHOPAL] Software Dev Core Member           Jan 2025 – May 2026
+[VIT BHOPAL] Software Dev Core Member            Jan 2025 – May 2026
 Data Science Club
-            → Built club platform for 500+ active users (React + Node.js)
-            → 40% faster load times via code splitting + lazy loading
+             → Built the club platform for 500+ active users (React + Node.js)
+             → 40% faster load times via code splitting + lazy loading
 
-[GSSoC]     Open Source Contributor             2024 – 2025
-            → Contributed to Open Source projects
-            → Bug fixes, feature enhancements, legacy code optimization
+[GSSoC]      Open Source Contributor             2024 – 2025
+             → Contributed to open source projects
+             → Bug fixes, feature enhancements, legacy code optimization
+```
+
+---
+
+## `> cat hackathons.log`
+
+```
+🥇  Smart India Hackathon 2025                  — Top 45 Teams nationwide
+🥈  ET Hackathon 2026 (Economic Times)           — Top 100 Teams · built Draftly
+🥉  HCL GUVI AI-Impact Buildathon 2026           — Top 100 Teams nationwide
+                                                     SE-ResNet model detecting AI-generated
+                                                     speech across 6 Indian languages
+🏅  Dawn of Code Hackathon 2025 (MERN Matrix Club) — Top 30 Teams
+                                                     built DataGuardian — full-stack tracker-
+                                                     blocking extension, weighted privacy score
 ```
 
 ---
@@ -199,11 +198,10 @@ Data Science Club
 
 | 🏆 Achievement | 📍 Details |
 |---|---|
-| 🥇 **Top 45 Teams — Smart India Hackathon 2025** | Nationwide competition |
-| 🥈 **Top 100 Teams — ET Hackathon 2026** | Built Draftly (Economic Times) |
-| 🎖️ **NPTEL Marketing Analytics — Gold Badge** | Score: 100% · Top 1% |
-| 🎖️ **NPTEL Intro to ML | Elite Badge |
-| 📚 **CGPA: 9.00 / 10.00** | VIT Bhopal · CSE · 2023–2027 |
+| 📚 **CGPA: 9.03 / 10.00** | VIT Bhopal · CSE · 2023–2027 |
+| 🎖️ **NPTEL — Marketing Analytics** | Elite Badge · 100% · Top 1% |
+| 🎖️ **NPTEL — Introduction to Machine Learning** | Elite Badge · 64% |
+| ☁️ **AWS Certified Cloud Practitioner** | AWS |
 
 </div>
 
@@ -229,10 +227,10 @@ Data Science Club
 ## `> cat certifications.txt`
 
 ```
-✔  NPTEL — Marketing Analytics           [ Elite Badge · 100% · Top 1% ]
-✔  NPTEL — Introduction to Machine Learning  [ Elite Badge · 64%        ]
+✔  AWS — Certified Cloud Practitioner
+✔  NPTEL — Marketing Analytics              [ Elite Badge · 100% · Top 1% ]
+✔  NPTEL — Introduction to Machine Learning [ Elite Badge · 64%           ]
 ✔  Udemy — Complete Full Stack Web Dev Bootcamp
-✔  Coursera — Bits and Bytes of Computer Networking (Google)
 ```
 
 ---
@@ -243,7 +241,7 @@ Data Science Club
 
 I'm actively looking for **fresher roles** in:
 
-`Full Stack Development` · `MERN / Next.js` · `Agentic AI Systems`
+`Full Stack Development` · `MERN / Next.js` · `Backend & APIs`
 
 If you're building something interesting — or have an opportunity — let's talk.
 
